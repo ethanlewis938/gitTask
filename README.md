@@ -5,7 +5,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
   - [Example Interaction](#example-interaction)
-- [Credits](#credits)
+- [Installation](#Repository-Link)
+- [Credits](#credits-✨)
 
 ## Description and Content 📜
 This simple Python program demonstrates basic input and output operations. The program initially prints "Hello World" to the screen, prompting the user with a friendly greeting. It then asks the user to enter any text and prints the user’s input back to the screen. This project is important as it displays the functionality of input prompts and print statements.
@@ -58,3 +59,6 @@ After installing the project, you can use it by following these steps:
 ## Credits ✨
 Lead Programmer
 - Ethan Lewis [GitHub Profile](https://github.com/ethanlewis938/)
+
+## Repository Link 🔗
+[View the Repository](https://github.com/ethanlewis938Github-Portfolio)
