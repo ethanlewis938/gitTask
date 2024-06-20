@@ -20,3 +20,24 @@ To install and run this project locally, follow these steps:
     ```sh
     python hello_world.py
     ```
+
+## Usage
+After installing the project, you can use it by following these steps:
+
+1. **Run the program**:
+    ```sh
+    python hello_world.py
+    ```
+
+2. **Interact with the program**:
+    - The program will print `Hello World`.
+    - It will then prompt you to `Enter anything:`.
+    - Type any text you like and press Enter.
+    - The program will print back the text you entered.
+
+   Example interaction:
+    ```sh
+    Hello World
+    Enter anything: [your input]
+    [your input]
+    ```
