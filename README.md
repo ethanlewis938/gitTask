@@ -35,9 +35,5 @@ After installing the project, you can use it by following these steps:
     - Type any text you like and press Enter.
     - The program will print back the text you entered.
 
-   Example interaction:
-    ```sh
-    Hello World
-    Enter anything: [your input]
-    [your input]
-    ```
+   **Example interaction:**
+![Program Screenshot](images/programRun.png)
