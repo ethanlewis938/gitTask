@@ -16,7 +16,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/ethanlewis938/Github-Portfolio
+    git clone https://github.com/ethanlewis938/helloWorldRepository
     ```
 
 2. **Navigate to the project directory**:
@@ -61,4 +61,4 @@ Lead Programmer
 - Ethan Lewis [GitHub Profile](https://github.com/ethanlewis938/)
 
 ## Repository Link 🔗
-[View the Repository](https://github.com/ethanlewis938Github-Portfolio)
+[View the Repository](https://github.com/ethanlewis938/helloWorldRepository)
